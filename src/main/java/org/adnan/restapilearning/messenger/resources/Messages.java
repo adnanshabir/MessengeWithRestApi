@@ -56,7 +56,9 @@ public class Messages {
 
 	}
 	
-
+	//Delete api should go here
+	
+	
 	@GET
 	@Path("/{messageId}")
 	@Produces(MediaType.APPLICATION_JSON) 
